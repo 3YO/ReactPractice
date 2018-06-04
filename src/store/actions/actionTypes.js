@@ -1,0 +1,1 @@
+export const TESTING_REDUX = 'TESTING_REDUX';
