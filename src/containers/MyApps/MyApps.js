@@ -17,7 +17,6 @@ class MyApps extends Component {
     
     render(){
 
-        console.log("ummmmm");
         console.log("??? " + this.props.testredux2);
 
         return (
